@@ -1,4 +1,4 @@
-# UMPIRE: Unveiling LLM-generated Patterns In Redundant Expressions
+# UMPIRE: Unveiling LLM-generated Posts via Redundant Expressions
 
 [![Paper](https://img.shields.io/badge/Paper-ArXiv-B31B1B.svg)](https://arxiv.org/abs/your-paper-link)
 [![Conference](https://img.shields.io/badge/ACL-Submission-blue.svg)]()
